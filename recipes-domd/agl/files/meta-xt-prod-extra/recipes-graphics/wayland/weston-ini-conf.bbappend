@@ -19,6 +19,7 @@ SRC_URI_append_salvator-x-h3-4x2g-xt += "\
     file://hdmi-2-on.cfg \
     file://vga-1-off.cfg \
     file://lvds-1-off.cfg \
+    file://v4l2.cfg \
 "
 
 SRC_URI_append_salvator-x-m3-xt += "\
